@@ -10,7 +10,7 @@ const Banner = () => {
                     <div className="flex items-center md:items-center md:justify-around">
                         <div className="">
                             <div className="">
-                                <h1 className="text-3xl sm:text-4xl xl:text-5xl text-Snow font-bold">Hello, Check This Out!</h1>
+                                <h1 className="text-3xl sm:text-4xl xl:text-5xl text-Snow font-bold">Paundra Febrian Wijaya</h1>
                             </div>
                             <div className="">
                                 <div className=" py-4 font-cascadia-normal text-Snow pb-4 text-xs h-20 lg:h-auto">
@@ -19,8 +19,7 @@ const Banner = () => {
                                             <Typewriter
                                                 options={{
                                                     strings:
-                                                        ['MERN Stack Developer',
-                                                            'NexJs Developer'],
+                                                        ['FullStack Developer'],
                                                     autoStart: true,
                                                     loop: true,
                                                 }}
