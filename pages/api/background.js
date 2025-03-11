@@ -32,7 +32,7 @@ const background = [
         title: "PT Ethos Kreatif Indonesia",
         role: "FullStack Developer",
         desc:
-          "As a frontend developer, I use laravel to build user interfaces for web applications.",
+          "I am an experienced Full Stack Developer in telecommunication support applications, mastering both backend and frontend to build scalable, secure, and high-performance systems. With rigorous testing and intuitive interfaces, I ensure optimal user experience and work closely with the team to support development needs.",
         year: "09/2024 - Present",
         location: "Purwokerto, Indonesia"
       },

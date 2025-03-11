@@ -2,157 +2,157 @@ const portfolio = [
   {
     id: 0,
     projectName: "Digi Asset",
-    url: "https://jmmerp.com/",
-    image: "projects/erp.png",
+    // url: "https://jmmerp.com/",
+    image: "projects/digi.JPG",
     projectDetail:
-      "Restructure your business with JMM ERP’s all-in-one cloud-based ERP. JMM ERP provides a robust, cost-effective online solution with state-of-the-art software to increase business value and enhance customer impact.",
+      "Digi Asset website is an asset management system designed to help companies manage hardware and other devices efficiently.",
     technologiesUsed: [
       {
         tech: "ReactJS"
       },
       {
-        tech: ".net"
+        tech: "PHP"
       },
       {
-        tech: "GraphQL"
+        tech: "Mysql"
       },
       {
-        tech: "Ant Design"
+        tech: "Laravel"
       },
       {
-        tech: "TailwindCSS"
+        tech: "SCSS"
       }
     ]
   },
   {
     id: 0,
-    projectName: "Kollabs",
-    url: "https://absco.sa/",
-    image: "projects/absco.png",
+    projectName: "KolLabs",
+    // url: "https://absco.sa/",
+    image: "projects/kolLab.JPG",
     projectDetail:
-      "ABSCO offer unparalleled business consulting solutions to meet client’s unique needs.",
+      "KolLab website is a digital campaign management system that focuses on collaboration with influencers.",
     technologiesUsed: [
       {
         tech: "ReactJS"
       },
       {
-        tech: "Ant Design"
+        tech: "PHP"
       },
       {
-        tech: "TailwindCSS"
+        tech: "SCSS"
+      },
+      {
+        tech: "Laravel"
       }
     ]
   },
   {
     id: 0,
     projectName: "Timekeeper",
-    url: "https://jmm.ltd/",
-    image: "projects/jmm.png",
+    // url: "https://jmm.ltd/",
+    image: "projects/timekepeer.JPG",
     projectDetail:
-      "JMM Technologies is a start-up turned technology company with extensive years of experience delivering digital solutions. As a fast-growing tech firm, we help diverse businesses and organizations. Our expertise in innovative, state-of-the-art digital services accelerates business growth and enhances customer impact.",
+      "Time Keeper Website is an employee data and attendance management system designed to help companies manage attendance, organizational structure, and employee information efficiently.",
     technologiesUsed: [
       {
         tech: "ReactJS"
       },
       {
-        tech: ".net"
+        tech: "ChartJs"
       },
       {
         tech: "REST API's"
       },
       {
-        tech: "Ant Design"
+        tech: "bootstrap icons"
       },
       {
-        tech: "TailwindCSS"
+        tech: "Laravel"
       }
     ]
   },
   {
     id: 0,
     projectName: "E-recruitment Karyawan",
-    url: "https://alsn.app/",
-    image: "projects/alsn.png",
+    // url: "https://alsn.app/",
+    image: "projects/krp.JPG",
     projectDetail:
-      "ASLN drives digital transformation with certified document translation services. In an interconnected world where seamless communication is imperative, they are strategically positioned to cater to the needs of businesses, individuals, and organizations.",
+      "PT. Karya Rama Perkasa website is the official platform of the company engaged in the provision of labor, transportation, materials, and construction.",
     technologiesUsed: [
       {
         tech: "ReactJS"
       },
       {
-        tech: ".net"
+        tech: "PHP"
       },
       {
-        tech: "REST API's"
+        tech: "Redux"
       },
       {
-        tech: "Ant Design"
+        tech: "Laravel"
       },
       {
-        tech: "TailwindCSS"
+        tech: "bootstrap icons"
       }
     ]
   },
   {
     id: 0,
     projectName: "Rental Audio",
-    url: "/domain-expired",
-    image: "projects/firmsanad.png",
+    // url: "/domain-expired",
+    image: "projects/aep.JPG",
     projectDetail:
-      "Invest in Saudi Arabia, Streamline Your Business Setup Process in Saudi Arabia with FirmSanad Simplify the process of obtaining licenses and starting a business in Saudi Arabia with our streamlined platform.",
+      "AE Production website is an official platform that provides event production services, including stage rental, sound system, lighting, and other multimedia equipment.",
     technologiesUsed: [
       {
         tech: "ReactJS"
       },
       {
-        tech: ".net"
+        tech: "PHP"
       },
       {
-        tech: "REST API's"
+        tech: "Redux"
       },
       {
-        tech: "Ant Design"
+        tech: "Laravel"
       },
       {
-        tech: "TailwindCSS"
+        tech: "bootstrap icons"
       }
     ]
   },
   {
     id: 0,
     projectName: "Sipeduli",
-    url: "https://fatehtour.com/",
-    image: "projects/fateh.png",
+    // url: "https://fatehtour.com/",
+    image: "projects/sipeduli.JPG",
     projectDetail:
-      "Fateh Al Mustaqbil is a one-of-a-kind travel agency designed to cater to the interests of travelers across the globe, founded in 2023 in Riyadh, Saudi Arabia. Their expertise lies in crafting exceptional journeys tailored to each client's unique requirements, whether it be ticketing, hotel bookings, or visa assistance.",
+      "The Sipeduli website is a complaint and information system designed to facilitate the public in reporting problems that occur in their environment, especially in Dukuh Longkrang.",
     technologiesUsed: [
       {
         tech: "ReactJS"
       },
       {
-        tech: ".net"
-      },
-      {
         tech: "REST API's"
       },
       {
-        tech: "Ant Design"
+        tech: "bootstrap icons"
       },
       {
-        tech: "TailwindCSS"
+        tech: "Redux"
       }
     ]
   },
   {
     id: 0,
     projectName: "PPDB Online",
-    url: "/domain-expired",
-    image: "projects/tojjar.png",
+    // url: "/domain-expired",
+    image: "projects/lrd.jpg",
     projectDetail:
-      "Tojjar is ecommerce website,  where you can open your own store and sell products of different brands!",
+      "PPDB Online is a site for accepting new students online via a digital platform",
     technologiesUsed: [
       {
-        tech: "Nextjs with SSR"
+        tech: "JavaScript"
       },
       {
         tech: "Laravel"
@@ -161,10 +161,10 @@ const portfolio = [
         tech: "REST API's"
       },
       {
-        tech: "Ant Design"
+        tech: "SCSS"
       },
       {
-        tech: "TailwindCSS"
+        tech: "PHP"
       }
     ]
   }
