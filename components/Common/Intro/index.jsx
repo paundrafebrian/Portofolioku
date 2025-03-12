@@ -6,7 +6,7 @@ import Location from './Location';
 import Tools from './Tools';
 import Image from 'next/image';
 import { NAME, DESIGNATION, SOCIAL_LINKS } from '../../../constants/constants';
-import Paundra from '../../../public/images/fotoku.JPG';
+import Paundra from '../../../public/images/fotoku.png';
 
 const Intro = () => {
   return (
